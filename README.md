@@ -2,6 +2,9 @@
 Develop a socket program in UNIX/Linux that uses TCP and UDP as the transport protocol for transferring message between a client and server. 
 There are 3 exercise for help with understand TCP & UDP socket programming listed in 3 seperated folders.
 
+# Build Instruction
+![socket_instruction](https://user-images.githubusercontent.com/9852678/163305334-d5217a09-3292-433f-b111-6ace9272f824.png)
+
 # Ex1
 ## Introduction
 This example is to show how to transmit a short packet using TCP and UDP Transport Protocols.
